@@ -1,0 +1,14 @@
+{
+  "assets/app.css": "http://localhost:44411/assets/app.css",
+  "assets/app.js": "http://localhost:44411/assets/app.js",
+  "assets/fonts/fa-solid-900.ttf": "http://localhost:44411/assets/fonts/fa-solid-900.07ed6d5f.ttf",
+  "assets/fonts/fa-brands-400.ttf": "http://localhost:44411/assets/fonts/fa-brands-400.0ff70dcb.ttf",
+  "assets/fonts/bootstrap-icons.woff?": "http://localhost:44411/assets/fonts/bootstrap-icons.39795c0b.woff",
+  "assets/fonts/fa-solid-900.woff2": "http://localhost:44411/assets/fonts/fa-solid-900.93f719f4.woff2",
+  "assets/fonts/bootstrap-icons.woff2?": "http://localhost:44411/assets/fonts/bootstrap-icons.b7bcc075.woff2",
+  "assets/fonts/fa-brands-400.woff2": "http://localhost:44411/assets/fonts/fa-brands-400.bb8d5a14.woff2",
+  "assets/fonts/fa-regular-400.ttf": "http://localhost:44411/assets/fonts/fa-regular-400.17a6e1ae.ttf",
+  "assets/fonts/fa-regular-400.woff2": "http://localhost:44411/assets/fonts/fa-regular-400.bc372268.woff2",
+  "assets/fonts/fa-v4compatibility.ttf": "http://localhost:44411/assets/fonts/fa-v4compatibility.0f6cb412.ttf",
+  "assets/fonts/fa-v4compatibility.woff2": "http://localhost:44411/assets/fonts/fa-v4compatibility.6cfec841.woff2"
+}
